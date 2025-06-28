@@ -1,5 +1,5 @@
 # hpc-setup-scripts
-#Scripts and instructions to install Miniconda on HPC and macOS
+#Scripts and instructions to install Miniconda on HPC 
 #!/bin/bash
 
 # Go to work directory
